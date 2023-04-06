@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946101876603",
+    "project_id": "reactnativedemo-1839e",
+    "storage_bucket": "reactnativedemo-1839e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946101876603:android:0c584c2cf2dc467712afde",
+        "android_client_info": {
+          "package_name": "com.newauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946101876603-vbb0b4547jqp2jp92283tokth3rvriil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newauth",
+            "certificate_hash": "0c79645879f3b96dee984f92c7c34292bea447ca"
+          }
+        },
+        {
+          "client_id": "946101876603-i65mnevgidikr4id0edltn4rbgdsdd4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6QE0ve7N2DhbBGhC6aTY2jdSiCWESU-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946101876603-i65mnevgidikr4id0edltn4rbgdsdd4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
